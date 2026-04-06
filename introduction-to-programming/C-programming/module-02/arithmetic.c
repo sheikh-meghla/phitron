@@ -5,5 +5,7 @@ int main()
     int b = 20;
     int sum = a + b;
     printf("sum=%d\n", sum);
+    int sub = a - b;
+    printf("sub=%d\n", sub);
     return 0;
 }
