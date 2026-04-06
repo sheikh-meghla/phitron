@@ -7,5 +7,7 @@ int main()
     printf("sum=%d\n", sum);
     int sub = a - b;
     printf("sub=%d\n", sub);
+    int mul = a * b;
+    printf("mul=%d\n", mul);
     return 0;
 }
